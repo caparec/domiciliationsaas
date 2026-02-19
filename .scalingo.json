@@ -1,0 +1,1 @@
+{"version": 1, "deploy": {"scalingo": {"buildpacks": ["heroku/nodejs"], "env": {"NODE_ENV": "production"}, "scripts": {"postinstall": "npm install"}}}}
